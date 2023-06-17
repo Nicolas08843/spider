@@ -11,7 +11,7 @@
 
 .item1 { 
     grid-area:box1; 
-    background-image: url(/images/descarga.jpg);
+    background-image: url(/images/spider3.jpg);
     color: aliceblue;
     
     }
@@ -22,30 +22,30 @@
     
 .item2 { 
     grid-area:box2;
-    background-image: url(/images/descarga.jpg);
+    background-image: url(/images/spider3.jpg);
     color: aliceblue; 
     
 }
 .item3 { 
     grid-area: box3;
-    background-image: url(/images/descarga.jpg);
+    background-image: url(/images/spider3.jpg);
     color: aliceblue; 
 }
 .item4 { 
     grid-area: box4; 
-    background-image: url(/images/descarga.jpg);
+    background-image: url(/images/spider3.jpg);
     color: aliceblue;
 }
 .item5 {
     grid-area: box5; 
-    background-image:url(/images/spiderman-hd-wallpaper-52650-310734.jpg);
+    background-image:url(/images/spider5.jpg);
     
 
     
 }
 .item6 {
     grid-area: box6; 
-    background-image: url(/images/23b972cd7e341576d80cf8cea428f8c7.jpg);
+    background-image: url(/images/spider1.jpg);
 }
 .item7 {
     grid-area: box7; 
